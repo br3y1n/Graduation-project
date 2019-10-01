@@ -1,0 +1,74 @@
+\documentclass[12pt,letterpaper,oneside]{report}
+
+%---------------------PACKAGES
+\usepackage[margin=3cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[spanish]{babel}
+%-----------------------------
+
+\title{Trust Me}
+\author{{Brayan Arango} \\ {Wilder Alcala}}
+
+\begin{document}
+	
+	%-----------------INDEX
+	\include{start/coverPage}
+	\include{start/backCover}
+
+	\pagenumbering{Roman}
+	\include{start/acceptanceNote}
+	\include{start/dedication}
+	
+	%--------------------TABLES
+	\tableofcontents
+	
+	%-----------------CONTENT
+	\include{start/intro}
+	
+	\part{CONTEXTUALIZACIÓN DE LA INVESTIGACIÓN}
+	
+		\chapter{DESCRIPCION DE LA INVESTIGACIÓN}
+			\input{description/problem}
+			\input{description/objectives}
+			\input{description/justification}
+			\input{description/scopes}
+			\input{description/hypothesis}
+			\input{description/framework}
+			\input{description/methodology}
+			\input{description/organization}
+			\input{description/study}
+			
+	\part{DESARROLLO DE LA INVESTIGACIÓN}
+
+		\chapter{PRUEBA}
+			\input{description/problem}
+			\input{description/objectives}
+			
+		\chapter{PRUEBA}
+			\input{description/problem}
+			\input{description/objectives}
+
+	\part{CIERRE DE LA INVESTIGACIÓN}
+
+		\chapter{RESULTADOS Y DISCUSIÓN}
+			\input{description/problem}
+			\input{description/objectives}
+
+		\chapter{CONCLUSIONES}
+			\input{description/problem}
+			\input{description/objectives}
+			
+		\chapter{PROSPECTIVA DEL TRABAJO DE GRADO}
+			\input{description/problem}
+			\input{description/objectives}
+			
+	\bibliographystyle{alpha}
+	\bibliography{bibliography/article, bibliography/books}
+	
+	\chapter*{ANEXOS}
+	\addcontentsline{toc}{part}{ANEXOS}
+		\input{annexes/annexA}
+	
+
+\end{document}          

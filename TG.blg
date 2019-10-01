@@ -1,0 +1,16 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: TG.aux
+A level-1 auxiliary file: start/coverPage.aux
+A level-1 auxiliary file: start/backCover.aux
+A level-1 auxiliary file: start/acceptanceNote.aux
+A level-1 auxiliary file: start/dedication.aux
+A level-1 auxiliary file: start/intro.aux
+The style file: alpha.bst
+I couldn't open database file bibliography/article.bib
+---line 48 of file TG.aux
+ : \bibdata{bibliography/article
+ :                              , bibliography/books}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: annexes/start.aux
+I found no \citation commands---while reading file TG.aux
+I found no database files---while reading file TG.aux
+(There were 3 error messages)
