@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630) (preloaded format=pdflatex 2019.9.17)  30 SEP 2019 21:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630) (preloaded format=pdflatex 2019.9.17)  30 SEP 2019 22:21
 entering extended mode
 **./TG.tex
 (TG.tex
@@ -591,7 +591,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout2 = `start/intro.aux'.
 
 
-(start/intro.tex) [1
+(start/intro.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+) [1
 
 
 ] [2
@@ -644,18 +654,18 @@ LaTeX Info: Redefining \% on input line 7.
 (start/backCover.aux) (start/acceptanceNote.aux) (start/dedication.aux)
 (start/intro.aux)) ) 
 Here is how much of TeX's memory you used:
- 3254 strings out of 493305
- 45526 string characters out of 3136279
+ 3263 strings out of 493305
+ 45635 string characters out of 3136279
  117565 words of memory out of 3000000
- 6668 multiletter control sequences out of 15000+200000
+ 6677 multiletter control sequences out of 15000+200000
  8847 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,32p,271b,401s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,5n,32p,442b,401s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmti12.pfb>
-Output written on TG.pdf (18 pages, 299161 bytes).
+Output written on TG.pdf (18 pages, 300770 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
