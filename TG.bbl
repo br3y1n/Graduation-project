@@ -1,3 +1,12 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{Dan19}
+
+\bibitem[Bar]{unemployment}
+Camilo~Vega Barbosa.
+\newblock ¿por qué está subiendo el desempleo en colombia?
+
+\bibitem[Dan19]{dane}
+Dane.
+\newblock Gran encuesta integrada de hogares (geih) mercado laboral.
+\newblock 30/09/2019.
 
 \end{thebibliography}

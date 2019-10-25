@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630) (preloaded format=pdflatex 2019.9.17)  30 SEP 2019 22:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630) (preloaded format=pdflatex 2019.9.17)  24 OCT 2019 23:18
 entering extended mode
 **./TG.tex
 (TG.tex
@@ -609,43 +609,202 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
 ]
 Cap\'{\i }tulo 1.
-(description/problem.tex) (description/objectives.tex)
-(description/justification.tex) (description/scopes.tex)
-(description/hypothesis.tex) (description/framework.tex)
-(description/methodology.tex) (description/organization.tex)
-(description/study.tex) [3
+(description/problem.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
-] [4
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+) (description/objectives.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--1
+
+ []
+
+) (description/justification.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+) (description/scopes.tex) (description/hypothesis.tex)
+(description/framework.tex) (description/methodology.tex)
+(description/organization.tex) (description/study.tex) [5] [6
 
 ]
 Cap\'{\i }tulo 2.
-(description/problem.tex) (description/objectives.tex) [5
+(description/problem.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[7
 
 ]
-Cap\'{\i }tulo 3.
-(description/problem.tex) (description/objectives.tex) [6
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
-] [7
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+) (description/objectives.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--1
+
+ []
+
+) [8]
+Cap\'{\i }tulo 3.
+(description/problem.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[9
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+) (description/objectives.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--1
+
+ []
+
+) [10] [11
 
 ]
 Cap\'{\i }tulo 4.
-(description/problem.tex) (description/objectives.tex) [8
+(description/problem.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[12
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+) (description/objectives.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--1
+
+ []
+
+) [13]
 Cap\'{\i }tulo 5.
-(description/problem.tex) (description/objectives.tex) [9
+(description/problem.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[14
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+) (description/objectives.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--1
+
+ []
+
+) [15]
 Cap\'{\i }tulo 6.
-(description/problem.tex) (description/objectives.tex) (TG.bbl [10
+(description/problem.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[16
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+ []
 
-) [11
 
-] (annexes/annexA.tex) [12
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+) (description/objectives.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--1
+
+ []
+
+) (TG.bbl [17]) [18
+
+] (annexes/annexA.tex) [19
 
 ] (TG.aux (start/coverPage.aux)
 LaTeX Info: Redefining \. on input line 7.
@@ -654,20 +813,21 @@ LaTeX Info: Redefining \% on input line 7.
 (start/backCover.aux) (start/acceptanceNote.aux) (start/dedication.aux)
 (start/intro.aux)) ) 
 Here is how much of TeX's memory you used:
- 3263 strings out of 493305
- 45635 string characters out of 3136279
- 117565 words of memory out of 3000000
- 6677 multiletter control sequences out of 15000+200000
+ 3267 strings out of 493305
+ 45683 string characters out of 3136279
+ 119579 words of memory out of 3000000
+ 6681 multiletter control sequences out of 15000+200000
  8847 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,32p,442b,401s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,5n,32p,920b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmti12.pfb>
-Output written on TG.pdf (18 pages, 300770 bytes).
+m/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmti12.pfb>
+Output written on TG.pdf (25 pages, 333392 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
