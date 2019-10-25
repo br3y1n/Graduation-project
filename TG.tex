@@ -5,10 +5,18 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage[spanish]{babel}
+\usepackage[fixlanguage]{babelbib}
+\selectbiblanguage{spanish}
+\usepackage{url}
 %-----------------------------
 
 \title{Trust Me}
 \author{{Brayan Arango} \\ {Wilder Alcala}}
+
+%-----------------CONFIG
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$-$}
+%-----------------------
 
 \begin{document}
 	
@@ -17,6 +25,7 @@
 	\include{start/backCover}
 
 	\pagenumbering{Roman}
+	\urlstyle{same}
 	\include{start/acceptanceNote}
 	\include{start/dedication}
 	
@@ -63,7 +72,7 @@
 			\input{description/problem}
 			\input{description/objectives}
 			
-	\bibliographystyle{alpha}
+	\bibliographystyle{ieeetr}
 	\bibliography{bibliography/articles,bibliography/books}
 	
 	\chapter*{ANEXOS}

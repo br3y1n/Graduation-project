@@ -4,10 +4,10 @@ A level-1 auxiliary file: start/backCover.aux
 A level-1 auxiliary file: start/acceptanceNote.aux
 A level-1 auxiliary file: start/dedication.aux
 A level-1 auxiliary file: start/intro.aux
-The style file: alpha.bst
+The style file: ieeetr.bst
 Database file #1: bibliography/articles.bib
 Database file #2: bibliography/books.bib
-Warning--empty journal in unemployment
-Warning--empty year in unemployment
+Warning--empty journal in bankrep
 Warning--empty journal in dane
+Warning--empty journal in unemployment
 (There were 3 warnings)

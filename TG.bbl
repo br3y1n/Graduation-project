@@ -1,12 +1,26 @@
-\begin{thebibliography}{Dan19}
+\begin{thebibliography}{1}
 
-\bibitem[Bar]{unemployment}
-Camilo~Vega Barbosa.
-\newblock ¿por qué está subiendo el desempleo en colombia?
+\bibitem{bankrep}
+A.~M. Pabón, ``Determinantes del acceso al crédito de los hogares
+  colombianos,'' 2007.
+\newblock Disponible en
+  \url{http://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/5467/be_449.pdf?sequence=1&isAllowed=y}
+  [Visto el 25/09/2019].
 
-\bibitem[Dan19]{dane}
-Dane.
-\newblock Gran encuesta integrada de hogares (geih) mercado laboral.
-\newblock 30/09/2019.
+\bibitem{dane}
+Dane, ``Gran encuesta integrada de hogares (geih) mercado laboral,'' 2019.
+\newblock Disponible en
+  \url{https://www.dane.gov.co/index.php/estadisticas-por-tema/mercado-laboral/empleo-y-desempleo}
+  [Visto el 25/09/2019].
+
+\bibitem{unemployment}
+C.~V. Barbosa, ``¿por qué está subiendo el desempleo en colombia?,'' 2019.
+\newblock Disponible en
+  \url{https://www.elespectador.com/economia/por-que-esta-subiendo-el-desempleo-en-colombia-articulo-883869}
+  [Visto el 25/09/2019].
+
+\bibitem{creditArtJos}
+J.~A. M.~C. Arturo Morales~Castro, {\em Crédito y Cobranza}.
+\newblock GRUPO EDITORIAL PATRIA, 1~ed., 2014.
 
 \end{thebibliography}
