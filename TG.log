@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.17)  25 OCT 2019 17:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.17)  28 OCT 2019 18:52
 entering extended mode
 **./TG.tex
 (TG.tex
@@ -120,21 +120,24 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
  (start/backCover.aux) (start/acceptanceNote.aux)
-(start/dedication.aux) (start/intro.aux))
+(start/dedication.aux) (start/intro.aux) (description/objectives.aux)
+(description/justification.aux) (description/scopes.aux)
+(description/hypothesis.aux) (description/framework.aux)
+(description/methodology.aux))
 \openout1 = `TG.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -226,8 +229,8 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
 
 babelbib: Set bibliography fall-back language to spanish
 ("C:\Program Files\MiKTeX 2.9\tex/latex/babelbib\spanish.bdf"
@@ -325,173 +328,90 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
 [3
 
+]) [4]
+\openout2 = `description/objectives.aux'.
+
+ (description/objectives.tex) [5
+
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\openout2 = `description/justification.aux'.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-) (description/objectives.tex [4]) (description/justification.tex
+ (description/justification.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-) (description/scopes.tex [5]) (description/hypothesis.tex)
-(description/framework.tex) (description/methodology.tex)
-(description/organization.tex) (description/study.tex) [6] [7] [8
+) [6
+
+
+] [7]
+\openout2 = `description/scopes.aux'.
+
+ (description/scopes.tex) [8
+
+
+]
+\openout2 = `description/hypothesis.aux'.
+
+ (description/hypothesis.tex) [9
+
+
+]
+\openout2 = `description/framework.aux'.
+
+
+(description/framework.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+[10
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+[11]) [12]
+\openout2 = `description/methodology.aux'.
+
+ (description/methodology.tex) [13
+
+
+] [14] [15
+
+
+] [16
 
 ]
 Cap\'{\i }tulo 2.
-(description/problem.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-[9
+[17
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-) (description/objectives.tex) [10]
 Cap\'{\i }tulo 3.
-(description/problem.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-[11
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-) (description/objectives.tex) [12] [13
-
-]
-Cap\'{\i }tulo 4.
-(description/problem.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-[14
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-) (description/objectives.tex) [15]
-Cap\'{\i }tulo 5.
-(description/problem.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-[16
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-) (description/objectives.tex) [17]
-Cap\'{\i }tulo 6.
-(description/problem.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
 [18
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
+Cap\'{\i }tulo 4.
+(TG.bbl [19
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-) (description/objectives.tex [19]) (TG.bbl [20]
+]
 Underfull \hbox (badness 1297) in paragraph at lines 11--15
 []\OT1/cmr/m/n/12 Dane, ``Gran en-cues-ta in-te-gra-da de ho-ga-res (geih) mer-
 ca-do la-bo-ral,'' 2019.
@@ -521,31 +441,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--21
 articulo-[]883869$ [Vis-to el
  []
 
-) [21
-
-] (annexes/annexA.tex) [22
+) [20
 
 ] (TG.aux (start/coverPage.aux)
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
-
-(start/backCover.aux) (start/acceptanceNote.aux) (start/dedication.aux)
-(start/intro.aux)) ) 
+ (start/backCover.aux)
+(start/acceptanceNote.aux) (start/dedication.aux) (start/intro.aux)
+(description/objectives.aux) (description/justification.aux)
+(description/scopes.aux) (description/hypothesis.aux)
+(description/framework.aux) (description/methodology.aux)) ) 
 Here is how much of TeX's memory you used:
- 3401 strings out of 492895
- 51666 string characters out of 3133443
- 138871 words of memory out of 3000000
- 7182 multiletter control sequences out of 15000+200000
+ 3400 strings out of 492895
+ 51622 string characters out of 3133443
+ 139518 words of memory out of 3000000
+ 7188 multiletter control sequences out of 15000+200000
  8847 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,32p,1064b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on TG.pdf (28 pages, 342085 bytes).
+ 41i,4n,32p,1066b,392s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb>
+Output written on TG.pdf (26 pages, 330990 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
+ 105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

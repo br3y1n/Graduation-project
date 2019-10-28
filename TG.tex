@@ -16,6 +16,8 @@
 %-----------------CONFIG
 \renewcommand{\labelitemi}{$\bullet$}
 \renewcommand{\labelitemii}{$-$}
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{4}
 %-----------------------
 
 \begin{document}
@@ -39,45 +41,45 @@
 	
 		\chapter{DESCRIPCION DE LA INVESTIGACIÓN}
 			\input{description/problem}
-			\input{description/objectives}
-			\input{description/justification}
-			\input{description/scopes}
-			\input{description/hypothesis}
-			\input{description/framework}
-			\input{description/methodology}
-			\input{description/organization}
-			\input{description/study}
+			\include{description/objectives}
+			\include{description/justification}
+			\include{description/scopes}
+			\include{description/hypothesis}
+			\include{description/framework}
+			\include{description/methodology}
+			%\input{description/organization}
+			%\input{description/study}
 			
 	\part{DESARROLLO DE LA INVESTIGACIÓN}
 
-		\chapter{PRUEBA}
-			\input{description/problem}
-			\input{description/objectives}
+		%\chapter{PRUEBA}
+			%\input{description/problem}
+			%\input{description/objectives}
 			
-		\chapter{PRUEBA}
-			\input{description/problem}
-			\input{description/objectives}
+		%\chapter{PRUEBA}
+			%\input{description/problem}
+			%\input{description/objectives}
 
 	\part{CIERRE DE LA INVESTIGACIÓN}
 
 		\chapter{RESULTADOS Y DISCUSIÓN}
-			\input{description/problem}
-			\input{description/objectives}
+			%\input{description/problem}
+			%\input{description/objectives}
 
 		\chapter{CONCLUSIONES}
-			\input{description/problem}
-			\input{description/objectives}
+			%\input{description/problem}
+			%\input{description/objectives}
 			
 		\chapter{PROSPECTIVA DEL TRABAJO DE GRADO}
-			\input{description/problem}
-			\input{description/objectives}
+			%\input{description/problem}
+			%\input{description/objectives}
 			
 	\bibliographystyle{ieeetr}
 	\bibliography{bibliography/articles,bibliography/books}
 	
-	\chapter*{ANEXOS}
-	\addcontentsline{toc}{part}{ANEXOS}
-		\input{annexes/annexA}
+	%\chapter*{ANEXOS}
+	%\addcontentsline{toc}{part}{ANEXOS}
+		%\input{annexes/annexA}
 	
 
 \end{document}          
