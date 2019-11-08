@@ -16,23 +16,26 @@
 \contentsline {section}{\numberline {1.5}Hip\IeC {\'o}tesis}{9}% 
 \contentsline {section}{\numberline {1.6}Marco referencial}{10}% 
 \contentsline {subsection}{\numberline {1.6.1}Marco te\IeC {\'o}rico}{10}% 
-\contentsline {subsubsection}{\numberline {1.6.1.1}Sitios Web}{10}% 
-\contentsline {subsubsection}{\numberline {1.6.1.2}Dise\IeC {\~n}o Web responsivo}{10}% 
-\contentsline {subsubsection}{\numberline {1.6.1.3}Bases de datos relaciones}{10}% 
-\contentsline {subsection}{\numberline {1.6.2}Marco Conceptual}{11}% 
-\contentsline {subsubsection}{\numberline {1.6.2.1}SQL}{11}% 
-\contentsline {subsubsection}{\numberline {1.6.2.2}RESTful}{11}% 
-\contentsline {subsubsection}{\numberline {1.6.2.3}Web api}{11}% 
-\contentsline {subsubsection}{\numberline {1.6.2.4}HTTP}{12}% 
-\contentsline {subsubsection}{\numberline {1.6.2.5}Modelo Cliente - Servidor}{12}% 
-\contentsline {subsubsection}{\numberline {1.6.2.6}Arquitectura Orientada a Servicios SOA}{12}% 
-\contentsline {section}{\numberline {1.7}Metodolog\IeC {\'\i }a de la investigaci\IeC {\'o}n}{13}% 
-\contentsline {subsection}{\numberline {1.7.1}Tipo de estudio}{13}% 
-\contentsline {subsection}{\numberline {1.7.2}M\IeC {\'e}todo de investigaci\IeC {\'o}n}{13}% 
-\contentsline {subsection}{\numberline {1.7.3}Fuentes y t\IeC {\'e}cnicas para la recolecci\IeC {\'o}n de la informaci\IeC {\'o}n}{13}% 
-\contentsline {subsection}{\numberline {1.7.4}Tratamiento de la informaci\IeC {\'o}n}{14}% 
-\contentsline {part}{II\hspace {1em}DESARROLLO DE LA INVESTIGACI\IeC {\'O}N}{15}% 
-\contentsline {part}{III\hspace {1em}CIERRE DE LA INVESTIGACI\IeC {\'O}N}{16}% 
-\contentsline {chapter}{\numberline {2}RESULTADOS Y DISCUSI\IeC {\'O}N}{17}% 
-\contentsline {chapter}{\numberline {3}CONCLUSIONES}{18}% 
-\contentsline {chapter}{\numberline {4}PROSPECTIVA DEL TRABAJO DE GRADO}{19}% 
+\contentsline {subsubsection}{\numberline {1.6.1.1}Microcr\IeC {\'e}dito}{10}% 
+\contentsline {subsubsection}{\numberline {1.6.1.2}Experiencia de usuario}{10}% 
+\contentsline {subsubsection}{\numberline {1.6.1.3}Almacenamiento y persistencia de la informaci\IeC {\'o}n}{11}% 
+\contentsline {subsection}{\numberline {1.6.2}Marco Conceptual}{12}% 
+\contentsline {subsubsection}{\numberline {1.6.2.1}Sitios Web}{12}% 
+\contentsline {subsubsection}{\numberline {1.6.2.2}Dise\IeC {\~n}o Web responsivo}{12}% 
+\contentsline {subsubsection}{\numberline {1.6.2.3}Bases de datos relaciones}{13}% 
+\contentsline {subsubsection}{\numberline {1.6.2.4}SQL}{13}% 
+\contentsline {subsubsection}{\numberline {1.6.2.5}RESTful}{13}% 
+\contentsline {subsubsection}{\numberline {1.6.2.6}Web API}{14}% 
+\contentsline {subsubsection}{\numberline {1.6.2.7}HTTP}{14}% 
+\contentsline {subsubsection}{\numberline {1.6.2.8}Modelo Cliente - Servidor}{14}% 
+\contentsline {subsubsection}{\numberline {1.6.2.9}Arquitectura Orientada a Servicios SOA}{14}% 
+\contentsline {section}{\numberline {1.7}Metodolog\IeC {\'\i }a de la investigaci\IeC {\'o}n}{15}% 
+\contentsline {subsection}{\numberline {1.7.1}Tipo de estudio}{15}% 
+\contentsline {subsection}{\numberline {1.7.2}M\IeC {\'e}todo de investigaci\IeC {\'o}n}{15}% 
+\contentsline {subsection}{\numberline {1.7.3}Fuentes y t\IeC {\'e}cnicas para la recolecci\IeC {\'o}n de la informaci\IeC {\'o}n}{15}% 
+\contentsline {subsection}{\numberline {1.7.4}Tratamiento de la informaci\IeC {\'o}n}{16}% 
+\contentsline {part}{II\hspace {1em}DESARROLLO DE LA INVESTIGACI\IeC {\'O}N}{17}% 
+\contentsline {part}{III\hspace {1em}CIERRE DE LA INVESTIGACI\IeC {\'O}N}{18}% 
+\contentsline {chapter}{\numberline {2}RESULTADOS Y DISCUSI\IeC {\'O}N}{19}% 
+\contentsline {chapter}{\numberline {3}CONCLUSIONES}{20}% 
+\contentsline {chapter}{\numberline {4}PROSPECTIVA DEL TRABAJO DE GRADO}{21}% 

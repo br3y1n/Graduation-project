@@ -4,10 +4,20 @@ A level-1 auxiliary file: start/backCover.aux
 A level-1 auxiliary file: start/acceptanceNote.aux
 A level-1 auxiliary file: start/dedication.aux
 A level-1 auxiliary file: start/intro.aux
+A level-1 auxiliary file: description/objectives.aux
+A level-1 auxiliary file: description/justification.aux
+A level-1 auxiliary file: description/scopes.aux
+A level-1 auxiliary file: description/hypothesis.aux
+A level-1 auxiliary file: description/framework.aux
+A level-1 auxiliary file: description/methodology.aux
 The style file: ieeetr.bst
 Database file #1: bibliography/articles.bib
 Database file #2: bibliography/books.bib
 Warning--empty journal in bankrep
 Warning--empty journal in dane
 Warning--empty journal in unemployment
-(There were 3 warnings)
+Warning--empty journal in MaricruzMicro
+Warning--empty journal in BarbaraMicro
+Warning--empty journal in LupeTrust
+Warning--empty journal in YusefUX
+(There were 7 warnings)

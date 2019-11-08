@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.17)  28 OCT 2019 18:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.17)  8 NOV 2019 11:57
 entering extended mode
 **./TG.tex
 (TG.tex
@@ -115,6 +115,14 @@ Package: babelbib 2019/03/11 v1.32 babelbib: multilingual bibliographies (HH)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count96
+\float@exts=\toks19
+\float@box=\box27
+\@float@everytoks=\toks20
+\@floatcapt=\box28
 ) (TG.aux
 (start/coverPage.aux)
 LaTeX Info: Redefining \. on input line 7.
@@ -126,18 +134,18 @@ LaTeX Info: Redefining \% on input line 7.
 (description/methodology.aux))
 \openout1 = `TG.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -175,17 +183,17 @@ LaTeX Font Info:    ... okay on input line 23.
 
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count96
+\scratchcounter=\count97
 \scratchdimen=\dimen114
-\scratchbox=\box27
-\nofMPsegments=\count97
-\nofMParguments=\count98
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count99
+\scratchbox=\box29
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count100
 \MPscratchDim=\dimen115
-\MPnumerator=\count100
-\makeMPintoPDFobject=\count101
-\everyMPtoPDFconversion=\toks20
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks22
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -229,8 +237,8 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
 
 babelbib: Set bibliography fall-back language to spanish
 ("C:\Program Files\MiKTeX 2.9\tex/latex/babelbib\spanish.bdf"
@@ -290,7 +298,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `TG.toc'.
 
 
-[4]
+[4] (TG.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lof=\write4
+\openout4 = `TG.lof'.
+
+ [5
+
+] (TG.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lot=\write5
+\openout5 = `TG.lot'.
+
+ [6
+
+]
 \openout2 = `start/intro.aux'.
 
  (start/intro.tex
@@ -366,50 +392,94 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
+<description/framework/tendero.jpg, id=62, 647.41875pt x 364.36125pt>
+File: description/framework/tendero.jpg Graphic file (type jpg)
+<use description/framework/tendero.jpg>
+Package pdftex.def Info: description/framework/tendero.jpg  used on input line 
+13.
+(pdftex.def)             Requested size: 354.86412pt x 199.71545pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
 [10
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+ <./description/framework/tendero.jpg>]
+<description/framework/interactividad.jpg, id=66, 343.2825pt x 191.9672pt>
+File: description/framework/interactividad.jpg Graphic file (type jpg)
+<use description/framework/interactividad.jpg>
+Package pdftex.def Info: description/framework/interactividad.jpg  used on inpu
+t line 33.
+(pdftex.def)             Requested size: 354.86412pt x 198.44313pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-[11]) [12]
+<description/framework/nube.jpg, id=67, 579.66562pt x 435.12563pt>
+File: description/framework/nube.jpg Graphic file (type jpg)
+<use description/framework/nube.jpg>
+Package pdftex.def Info: description/framework/nube.jpg  used on input line 46.
+
+(pdftex.def)             Requested size: 354.86412pt x 266.37569pt.
+[11 <./description/framework/interactividad.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+[12 <./description/framework/nube.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+[13]) [14]
 \openout2 = `description/methodology.aux'.
 
- (description/methodology.tex) [13
+ (description/methodology.tex) [15
 
 
-] [14] [15
+] [16] [17
 
 
-] [16
+] [18
 
 ]
 Cap\'{\i }tulo 2.
-[17
+[19
 
 ]
 Cap\'{\i }tulo 3.
-[18
+[20
 
 ]
 Cap\'{\i }tulo 4.
-(TG.bbl [19
+(TG.bbl [21
 
 ]
 Underfull \hbox (badness 1297) in paragraph at lines 11--15
@@ -441,7 +511,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--21
 articulo-[]883869$ [Vis-to el
  []
 
-) [20
+
+Underfull \hbox (badness 1112) in paragraph at lines 34--39
+[]\OT1/cmr/m/n/12 B. Me-na, ``Mi-crocredi-tos: un me-dio efec-ti-vo pa-ra el a
+li-vio de la po-bre-za,''
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 41--45
+\OT1/cmr/m/n/12 https : / / www . elheraldo . co / economia / el-[]ao-[]el-[]q
+ue-[]salva-[]las-[]tiendas-[]653295$ [Vis-to
+ []
+
+) [22
 
 ] (TG.aux (start/coverPage.aux)
 LaTeX Info: Redefining \. on input line 7.
@@ -452,21 +534,21 @@ LaTeX Info: Redefining \% on input line 7.
 (description/scopes.aux) (description/hypothesis.aux)
 (description/framework.aux) (description/methodology.aux)) ) 
 Here is how much of TeX's memory you used:
- 3400 strings out of 492895
- 51622 string characters out of 3133443
- 139518 words of memory out of 3000000
- 7188 multiletter control sequences out of 15000+200000
+ 3493 strings out of 492895
+ 53235 string characters out of 3133443
+ 141092 words of memory out of 3000000
+ 7266 multiletter control sequences out of 15000+200000
  8847 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,4n,32p,1066b,392s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,5n,32p,1066b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb>
-Output written on TG.pdf (26 pages, 330990 bytes).
+Output written on TG.pdf (30 pages, 545860 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 120 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
