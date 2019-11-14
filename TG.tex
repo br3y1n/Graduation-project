@@ -35,7 +35,7 @@
 	%--------------------TABLES
 	\tableofcontents
 	\listoffigures
-	\listoftables
+	%\listoftables
 	
 	%-----------------CONTENT
 	\include{start/intro}
@@ -44,14 +44,12 @@
 	
 		\chapter{DESCRIPCION DE LA INVESTIGACIÓN}
 			\input{description/problem}
-			\include{description/objectives}
-			\include{description/justification}
-			\include{description/scopes}
-			\include{description/hypothesis}
-			\include{description/framework}
-			\include{description/methodology}
-			%\input{description/organization}
-			%\input{description/study}
+			\input{description/objectives}
+			\input{description/justification}
+			\input{description/scopes}
+			\input{description/hypothesis}
+			\input{description/framework}
+			\input{description/methodology}
 			
 	\part{DESARROLLO DE LA INVESTIGACIÓN}
 
@@ -65,24 +63,28 @@
 
 	\part{CIERRE DE LA INVESTIGACIÓN}
 
-		\chapter{RESULTADOS Y DISCUSIÓN}
-			%\input{description/problem}
-			%\input{description/objectives}
+		\chapter*{RESULTADOS Y DISCUSIÓN}
+		\addcontentsline{toc}{chapter}{RESULTADOS Y DISCUSIÓN}
+			\input{closing/results}
 
-		\chapter{CONCLUSIONES}
-			%\input{description/problem}
-			%\input{description/objectives}
+		\chapter*{CONCLUSIONES}
+		\addcontentsline{toc}{chapter}{CONCLUSIONES}
+			\input{closing/conclusions}
+			\input{closing/originals}
+			\input{closing/works}
 			
-		\chapter{PROSPECTIVA DEL TRABAJO DE GRADO}
-			%\input{description/problem}
-			%\input{description/objectives}
+		\chapter*{PROSPECTIVA DEL TRABAJO DE GRADO}
+		\addcontentsline{toc}{chapter}{PROSPECTIVA DEL TRABAJO DE GRADO}
+			\input{closing/future}
 			
+	\renewcommand{\bibname}{REFERENCIAS}	
 	\bibliographystyle{ieeetr}
-	\bibliography{bibliography/articles,bibliography/books}
+	\addcontentsline{toc}{part}{REFERENCIAS}
+	\bibliography{bibliography/articles,bibliography/books,bibliography/online}
 	
-	%\chapter*{ANEXOS}
-	%\addcontentsline{toc}{part}{ANEXOS}
-		%\input{annexes/annexA}
+	\chapter*{ANEXOS}
+	\addcontentsline{toc}{part}{ANEXOS}
+		\input{annexes/annexA}
 	
 
 \end{document}          

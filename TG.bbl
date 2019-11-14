@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{bankrep}
 A.~M. Pabón, ``Determinantes del acceso al crédito de los hogares
@@ -20,7 +20,7 @@ C.~V. Barbosa, ``¿por qué está subiendo el desempleo en colombia?,'' 2019.
   [Visto el 25/09/2019].
 
 \bibitem{creditArtJos}
-J.~A. M.~C. Arturo Morales~Castro, {\em Crédito y Cobranza}.
+A.~M. Castro and J.~A.~M. Castro, {\em Crédito y Cobranza}.
 \newblock GRUPO EDITORIAL PATRIA, 1~ed., 2014.
 
 \bibitem{MaricruzMicro}
@@ -51,5 +51,59 @@ Y.~H. Montero, ``Experiencia de usuario: principios y metodos,'' 2015.
 \bibitem{angelData}
 A.~C. Yera, {\em Diseño y programación de bases de datos}.
 \newblock VISION LIBROS, 2007.
+
+\bibitem{website}
+MIlenium, ``Sitios web,'' 2019.
+\newblock Disponible en
+  \url{https://www.informaticamilenium.com.mx/es/temas/que-son-los-sitios-web.html}
+  [Visto el 01/04/2019].
+
+\bibitem{responsive}
+40deFiebre, ``¿que es el diseño responsive?,'' 2019.
+\newblock Disponible en
+  \url{https://www.40defiebre.com/que-es/diseno-responsive} [Visto el
+  01/04/2019].
+
+\bibitem{dataBase}
+A.~Silberchatz, H.~Korth, and S.~Sudarchan, {\em Fundamentos de bases de
+  datos}.
+\newblock Mc Graw Hill, 2006.
+
+\bibitem{restful}
+L.~D. Seta, ``Introducción a los servicios restful,'' 2008.
+\newblock Disponible en
+  \url{https://dosideas.com/noticias/java/314-introduccion-a-los-servicios-web-restfu}
+  [Visto el 01/04/2019].
+
+\bibitem{webapi}
+G.~Escobar, ``Web api’s,'' 2015.
+\newblock Disponible en \url{https://blog.makeitreal.camp/que-es-un-api/}
+  [Visto el 16/09/2019].
+
+\bibitem{http}
+M.~contributors, ``Http,'' 2019.
+\newblock Disponible en \url{https://developer.mozilla.org/es/docs/Web/HTTP}
+  [Visto el 16/09/2019].
+
+\bibitem{methoInv}
+R.~Hernandez, C.~Fernandez, and P.~Batispta, {\em Metodologia de la
+  investigacion}.
+\newblock Mc Graw Hill, 2006.
+
+\bibitem{metho}
+E.~Ramos, ``La metodologia,'' 2008.
+\newblock Disponible en
+  \url{https://www.gestiopolis.com/metodos-y-tecnicas-de-investigacion/} [Visto
+  el 16/09/2019].
+
+\bibitem{learn}
+Y.~Gallardo and A.~Moreno, {\em Aprender a investigar,}.
+\newblock ARFO EDITORES LTDA, 1999.
+
+\bibitem{methoqual}
+U.~de~Jaén, ``El analisis de la investigacion cualitativa.''
+\newblock Disponible en
+  \url{http://www.ujaen.es/investiga/tics_tfg/pdf/cualitativa/analisis.pdf}
+  [Visto el 16/09/2019].
 
 \end{thebibliography}
