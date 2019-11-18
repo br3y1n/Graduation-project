@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630) (preloaded format=pdflatex 2019.9.17)  14 NOV 2019 16:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630) (preloaded format=pdflatex 2019.9.17)  18 NOV 2019 00:42
 entering extended mode
 **./TG.tex
 (TG.tex
@@ -672,136 +672,163 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-[6]
-<description/framework/tendero.jpg, id=50, 647.41875pt x 364.36125pt>
+<description/framework/yotepresto.png, id=50, 932.73468pt x 428.35031pt>
+File: description/framework/yotepresto.png Graphic file (type png)
+<use description/framework/yotepresto.png>
+Package pdftex.def Info: description/framework/yotepresto.png  used on input li
+ne 13.
+(pdftex.def)             Requested size: 354.86412pt x 162.96436pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+<description/framework/tendero.jpg, id=51, 647.41875pt x 364.36125pt>
 File: description/framework/tendero.jpg Graphic file (type jpg)
 <use description/framework/tendero.jpg>
 Package pdftex.def Info: description/framework/tendero.jpg  used on input line 
-13.
+30.
 (pdftex.def)             Requested size: 354.86412pt x 199.71545pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[7 <./description/framework/yotepresto.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-<description/framework/interactividad.jpg, id=51, 343.2825pt x 191.9672pt>
+<description/framework/interactividad.jpg, id=56, 343.2825pt x 191.9672pt>
 File: description/framework/interactividad.jpg Graphic file (type jpg)
 <use description/framework/interactividad.jpg>
 Package pdftex.def Info: description/framework/interactividad.jpg  used on inpu
-t line 33.
+t line 50.
 (pdftex.def)             Requested size: 354.86412pt x 198.44313pt.
-[7 <./description/framework/tendero.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[8 <./description/framework/tendero.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-<description/framework/nube.jpg, id=55, 579.66562pt x 435.12563pt>
+<description/framework/nube.jpg, id=60, 579.66562pt x 435.12563pt>
 File: description/framework/nube.jpg Graphic file (type jpg)
 <use description/framework/nube.jpg>
-Package pdftex.def Info: description/framework/nube.jpg  used on input line 46.
+Package pdftex.def Info: description/framework/nube.jpg  used on input line 63.
 
 (pdftex.def)             Requested size: 354.86412pt x 266.37569pt.
-[8 <./description/framework/interactividad.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+[9 <./description/framework/interactividad.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
-<description/framework/website.png, id=59, 903.375pt x 539.01375pt>
+<description/framework/website.png, id=64, 903.375pt x 539.01375pt>
 File: description/framework/website.png Graphic file (type png)
 <use description/framework/website.png>
 Package pdftex.def Info: description/framework/website.png  used on input line 
-62.
+79.
 (pdftex.def)             Requested size: 354.86412pt x 211.73607pt.
-[9 <./description/framework/nube.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+[10 <./description/framework/nube.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
-<description/framework/responsive.jpg, id=63, 923.45pt x 541.02126pt>
+<description/framework/responsive.jpg, id=68, 923.45pt x 541.02126pt>
 File: description/framework/responsive.jpg Graphic file (type jpg)
 <use description/framework/responsive.jpg>
 Package pdftex.def Info: description/framework/responsive.jpg  used on input li
-ne 76.
+ne 93.
 (pdftex.def)             Requested size: 354.86412pt x 207.90169pt.
-[10 <./description/framework/website.png>]
-<description/framework/database.jpg, id=68, 562.1pt x 351.3125pt>
+[11 <./description/framework/website.png>]
+<description/framework/database.jpg, id=73, 562.1pt x 351.3125pt>
 File: description/framework/database.jpg Graphic file (type jpg)
 <use description/framework/database.jpg>
 Package pdftex.def Info: description/framework/database.jpg  used on input line
- 88.
+ 105.
 (pdftex.def)             Requested size: 354.86412pt x 221.78905pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
-[11 <./description/framework/responsive.jpg> <./description/framework/database.
+[12 <./description/framework/responsive.jpg> <./description/framework/database.
 jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-<description/framework/sql.png, id=72, 688.5725pt x 710.655pt>
+<description/framework/sql.png, id=78, 688.5725pt x 710.655pt>
 File: description/framework/sql.png Graphic file (type png)
 <use description/framework/sql.png>
-Package pdftex.def Info: description/framework/sql.png  used on input line 103.
+Package pdftex.def Info: description/framework/sql.png  used on input line 120.
 
 (pdftex.def)             Requested size: 266.14978pt x 274.68196pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
-[12 <./description/framework/sql.png>]
-<description/framework/restful.png, id=78, 444.15938pt x 433.62pt>
+[13 <./description/framework/sql.png>]
+<description/framework/restful.png, id=83, 444.15938pt x 433.62pt>
 File: description/framework/restful.png Graphic file (type png)
 <use description/framework/restful.png>
 Package pdftex.def Info: description/framework/restful.png  used on input line 
-117.
+134.
 (pdftex.def)             Requested size: 266.14978pt x 259.82994pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
-[13 <./description/framework/restful.png>]
-<description/framework/webapi.png, id=83, 586.19pt x 256.96pt>
+[14 <./description/framework/restful.png>]
+<description/framework/webapi.png, id=88, 586.19pt x 256.96pt>
 File: description/framework/webapi.png Graphic file (type png)
 <use description/framework/webapi.png>
 Package pdftex.def Info: description/framework/webapi.png  used on input line 1
-41.
+58.
 (pdftex.def)             Requested size: 354.86412pt x 155.5534pt.
-<description/framework/http.jpg, id=84, 259.97125pt x 195.73125pt>
+<description/framework/http.jpg, id=89, 259.97125pt x 195.73125pt>
 File: description/framework/http.jpg Graphic file (type jpg)
 <use description/framework/http.jpg>
-Package pdftex.def Info: description/framework/http.jpg  used on input line 153
+Package pdftex.def Info: description/framework/http.jpg  used on input line 170
 .
 (pdftex.def)             Requested size: 310.50357pt x 233.77724pt.
- [14 <./description/framework/webapi.png>]) (description/methodology.tex [15 <.
+ [15 <./description/framework/webapi.png>]) (description/methodology.tex [16 <.
 /description/framework/http.jpg>])
-[16] [17
+[17] [18
 
-] [18
+]
+Cap\'{\i }tulo 2.
+(development/intro.tex) (development/trustme.tex) (development/mission.tex)
+(development/view.tex) (development/objectives.tex) (development/beginning.tex)
+(development/services.tex) (development/products.tex)
+(development/processes.tex) (development/functions.tex) [19
 
-] (closing/results.tex) [19
+]
+Cap\'{\i }tulo 3.
+(development/deal.tex) (development/application.tex)
+(development/technology.tex) [20
 
-] (closing/conclusions.tex)
-(closing/originals.tex) (closing/works.tex) [20
+] [21
 
-] (closing/future.tex [21
+] (closing/results.tex) [22
 
-])
-(TG.bbl
+]
+(closing/conclusions.tex) (closing/originals.tex) (closing/works.tex) [23
+
+]
+(closing/future.tex [24
+
+]) (TG.bbl
 Underfull \hbox (badness 7540) in paragraph at lines 11--15
 []\OT1/cmr/m/n/12 Dane, ``Gran en-cues-ta in-te-gra-da de ho-ga-res (geih) mer-
 ca-do la-bo-ral,''
@@ -825,43 +852,90 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--21
 articulo-[]883869$ [Vis-to el
  []
 
-[22
+[25
 
 
 ]
-Underfull \hbox (badness 1173) in paragraph at lines 73--77
+Underfull \hbox (badness 1173) in paragraph at lines 78--82
 \OT1/cmr/m/n/12 dosideas . com / noticias / java / 314-[]introduccion-[]a-[]los
 -[]servicios-[]web-[]restfu$ [Vis-to el
  []
 
-) [23] (annexes/annexA.tex
+) [26] (annexes/annexA.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-[24
+[27
 
-]) [25] (TG.aux (start/coverPage.aux)
+]
+<annexes/e1-p1.png, id=132, 361.35pt x 217.5628pt>
+File: annexes/e1-p1.png Graphic file (type png)
+<use annexes/e1-p1.png>
+Package pdftex.def Info: annexes/e1-p1.png  used on input line 62.
+(pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
+<annexes/e1-p2.png, id=133, 361.35pt x 217.5628pt>
+File: annexes/e1-p2.png Graphic file (type png)
+<use annexes/e1-p2.png>
+Package pdftex.def Info: annexes/e1-p2.png  used on input line 68.
+(pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
+ [28 <./annexes/e1-p1.png>]
+<annexes/e1-p3.png, id=137, 361.35pt x 217.5628pt>
+File: annexes/e1-p3.png Graphic file (type png)
+<use annexes/e1-p3.png>
+Package pdftex.def Info: annexes/e1-p3.png  used on input line 74.
+(pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
+<annexes/e1-p4.png, id=138, 361.35pt x 217.5628pt>
+File: annexes/e1-p4.png Graphic file (type png)
+<use annexes/e1-p4.png>
+Package pdftex.def Info: annexes/e1-p4.png  used on input line 80.
+(pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
+ [29 <./annexes/e1-p2.png> <./annexes/e1-p3.png>]
+<annexes/e1-p5.png, id=142, 361.35pt x 217.5628pt>
+File: annexes/e1-p5.png Graphic file (type png)
+<use annexes/e1-p5.png>
+Package pdftex.def Info: annexes/e1-p5.png  used on input line 86.
+(pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
+ [30 <./annexes/e1-p4.png> <./annexes/e1-p5.png>]
+<annexes/e2-p1.png, id=147, 361.35pt x 217.5628pt>
+File: annexes/e2-p1.png Graphic file (type png)
+<use annexes/e2-p1.png>
+Package pdftex.def Info: annexes/e2-p1.png  used on input line 127.
+(pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
+<annexes/e2-p2.png, id=148, 361.35pt x 217.5628pt>
+File: annexes/e2-p2.png Graphic file (type png)
+<use annexes/e2-p2.png>
+Package pdftex.def Info: annexes/e2-p2.png  used on input line 133.
+(pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
+ [31 <./annexes/e2-p1.png>]
+<annexes/e2-p3.png, id=152, 361.35pt x 217.5628pt>
+File: annexes/e2-p3.png Graphic file (type png)
+<use annexes/e2-p3.png>
+Package pdftex.def Info: annexes/e2-p3.png  used on input line 139.
+(pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
+)
+[32 <./annexes/e2-p2.png> <./annexes/e2-p3.png>] (TG.aux (start/coverPage.aux)
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
- (start/backCover.aux)
-(start/acceptanceNote.aux) (start/dedication.aux) (start/intro.aux)) ) 
+
+(start/backCover.aux) (start/acceptanceNote.aux) (start/dedication.aux)
+(start/intro.aux)) ) 
 Here is how much of TeX's memory you used:
- 3767 strings out of 493305
- 53546 string characters out of 3136279
- 132787 words of memory out of 3000000
- 7161 multiletter control sequences out of 15000+200000
+ 3852 strings out of 493305
+ 55597 string characters out of 3136279
+ 132792 words of memory out of 3000000
+ 7198 multiletter control sequences out of 15000+200000
  8847 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,5n,32p,1064b,406s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on TG.pdf (32 pages, 893581 bytes).
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmti12.pfb>
+Output written on TG.pdf (39 pages, 1245095 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
+ 172 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
