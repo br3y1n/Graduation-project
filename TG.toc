@@ -1,65 +1,74 @@
 \babel@toc {spanish}{}
-\contentsline {part}{INTRODUCCION}{1}% 
-\contentsline {part}{I\hspace {1em}CONTEXTUALIZACI\IeC {\'O}N DE LA INVESTIGACI\IeC {\'O}N}{2}% 
-\contentsline {chapter}{\numberline {1}DESCRIPCION DE LA INVESTIGACI\IeC {\'O}N}{3}% 
-\contentsline {section}{\numberline {1.1}Estudio del problema de investigaci\IeC {\'o}n}{3}% 
-\contentsline {subsection}{\numberline {1.1.1}Planteamiento del Problema}{3}% 
-\contentsline {subsection}{\numberline {1.1.2}Formulaci\IeC {\'o}n del problema}{4}% 
-\contentsline {subsection}{\numberline {1.1.3}Sistematizaci\IeC {\'o}n del problema}{4}% 
-\contentsline {section}{\numberline {1.2}Objetivos}{4}% 
-\contentsline {subsection}{\numberline {1.2.1}Objetivo general}{4}% 
-\contentsline {subsection}{\numberline {1.2.2}Objetivos espec\IeC {\'\i }ficos}{4}% 
-\contentsline {section}{\numberline {1.3}Justificacion}{5}% 
-\contentsline {section}{\numberline {1.4}Alcances y limitaciones}{6}% 
-\contentsline {subsection}{\numberline {1.4.1}Alcances}{6}% 
-\contentsline {subsection}{\numberline {1.4.2}Limitaciones}{6}% 
-\contentsline {section}{\numberline {1.5}Hip\IeC {\'o}tesis}{6}% 
-\contentsline {section}{\numberline {1.6}Marco referencial}{6}% 
-\contentsline {subsection}{\numberline {1.6.1}Antecedentes}{6}% 
-\contentsline {subsubsection}{\numberline {1.6.1.1}yotepresto.com}{6}% 
-\contentsline {subsection}{\numberline {1.6.2}Marco te\IeC {\'o}rico}{7}% 
-\contentsline {subsubsection}{\numberline {1.6.2.1}Microcr\IeC {\'e}dito}{7}% 
-\contentsline {subsubsection}{\numberline {1.6.2.2}Experiencia de usuario}{8}% 
-\contentsline {subsubsection}{\numberline {1.6.2.3}Almacenamiento y persistencia de la informaci\IeC {\'o}n}{9}% 
-\contentsline {subsection}{\numberline {1.6.3}Marco Conceptual}{10}% 
-\contentsline {subsubsection}{\numberline {1.6.3.1}Sitios Web}{10}% 
-\contentsline {subsubsection}{\numberline {1.6.3.2}Dise\IeC {\~n}o Web responsive}{11}% 
-\contentsline {subsubsection}{\numberline {1.6.3.3}Bases de datos relaciones}{12}% 
-\contentsline {subsubsection}{\numberline {1.6.3.4}SQL}{13}% 
-\contentsline {subsubsection}{\numberline {1.6.3.5}RESTful}{13}% 
-\contentsline {subsubsection}{\numberline {1.6.3.6}Web API}{14}% 
-\contentsline {subsubsection}{\numberline {1.6.3.7}HTTP}{15}% 
-\contentsline {section}{\numberline {1.7}Aspectos metodol\IeC {\'o}gicos}{16}% 
-\contentsline {subsection}{\numberline {1.7.1}Tipo de estudio}{16}% 
-\contentsline {subsection}{\numberline {1.7.2}M\IeC {\'e}todo de investigaci\IeC {\'o}n}{16}% 
-\contentsline {subsection}{\numberline {1.7.3}Fuentes y t\IeC {\'e}cnicas para la recolecci\IeC {\'o}n de la informaci\IeC {\'o}n}{17}% 
-\contentsline {subsection}{\numberline {1.7.4}Tratamiento de la informaci\IeC {\'o}n}{17}% 
-\contentsline {part}{II\hspace {1em}DESARROLLO DE LA INVESTIGACI\IeC {\'O}N}{18}% 
-\contentsline {chapter}{\numberline {2}METODOLOG\IeC {\'I}A APLICADA}{19}% 
-\contentsline {section}{\numberline {2.1}Diagramas de casos de uso}{19}% 
-\contentsline {section}{\numberline {2.2}Dise\IeC {\~n}o interfaz de usuario inicial \IeC {\textendash } wireframe}{20}% 
-\contentsline {section}{\numberline {2.3}Dise\IeC {\~n}o base de datos}{20}% 
-\contentsline {chapter}{\numberline {3}ORGANIZACI\IeC {\'O}N}{22}% 
-\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{22}% 
-\contentsline {section}{\numberline {3.2}Tru\$tMe}{22}% 
-\contentsline {section}{\numberline {3.3}Misi\IeC {\'o}n}{22}% 
-\contentsline {section}{\numberline {3.4}Visi\IeC {\'o}n}{22}% 
-\contentsline {section}{\numberline {3.5}Objetivos operativos}{23}% 
-\contentsline {section}{\numberline {3.6}Principios fundadores}{23}% 
-\contentsline {section}{\numberline {3.7}Servicios}{23}% 
-\contentsline {section}{\numberline {3.8}Productos}{23}% 
-\contentsline {part}{III\hspace {1em}CIERRE DE LA INVESTIGACI\IeC {\'O}N}{24}% 
-\contentsline {chapter}{RESULTADOS Y DISCUSI\IeC {\'O}N}{25}% 
-\contentsline {chapter}{CONCLUSIONES}{26}% 
-\contentsline {section}{\numberline {3.9}Aportes Originales}{26}% 
-\contentsline {section}{\numberline {3.10}Trabajos o publicaciones derivadas}{26}% 
-\contentsline {chapter}{PROSPECTIVA DEL TRABAJO DE GRADO}{27}% 
-\contentsline {section}{\numberline {3.11}Trabajos de investigaci\IeC {\'o}n futuros}{27}% 
-\contentsline {part}{REFERENCIAS}{28}% 
-\contentsline {part}{ANEXOS}{30}% 
-\contentsline {section}{Anexo A. Recolecci\IeC {\'o}n de la informaci\IeC {\'o}n}{30}% 
-\contentsline {subsection}{Encuesta}{30}% 
-\contentsline {subsubsection}{Encuesta 1 - Viabilidad}{30}% 
-\contentsline {subsubsection}{Tabulaci\IeC {\'o}n encuesta 1}{31}% 
-\contentsline {subsubsection}{Encuesta 2 - Satisfacci\IeC {\'o}n del proyecto}{33}% 
-\contentsline {subsubsection}{Tabulaci\IeC {\'o}n encuesta 2}{34}% 
+\contentsline {part}{INTRODUCCION}{1}
+\contentsline {part}{I\hspace {1em}CONTEXTUALIZACI\IeC {\'O}N DE LA INVESTIGACI\IeC {\'O}N}{2}
+\contentsline {chapter}{\numberline {1}DESCRIPCION DE LA INVESTIGACI\IeC {\'O}N}{3}
+\contentsline {section}{\numberline {1.1}Estudio del problema de investigaci\IeC {\'o}n}{3}
+\contentsline {subsection}{\numberline {1.1.1}Planteamiento del Problema}{3}
+\contentsline {subsection}{\numberline {1.1.2}Formulaci\IeC {\'o}n del problema}{4}
+\contentsline {subsection}{\numberline {1.1.3}Sistematizaci\IeC {\'o}n del problema}{4}
+\contentsline {section}{\numberline {1.2}Objetivos}{4}
+\contentsline {subsection}{\numberline {1.2.1}Objetivo general}{4}
+\contentsline {subsection}{\numberline {1.2.2}Objetivos espec\IeC {\'\i }ficos}{4}
+\contentsline {section}{\numberline {1.3}Justificacion}{5}
+\contentsline {section}{\numberline {1.4}Alcances y limitaciones}{6}
+\contentsline {subsection}{\numberline {1.4.1}Alcances}{6}
+\contentsline {subsection}{\numberline {1.4.2}Limitaciones}{6}
+\contentsline {section}{\numberline {1.5}Hip\IeC {\'o}tesis}{6}
+\contentsline {section}{\numberline {1.6}Marco referencial}{6}
+\contentsline {subsection}{\numberline {1.6.1}Antecedentes}{6}
+\contentsline {subsubsection}{\numberline {1.6.1.1}yotepresto.com}{6}
+\contentsline {subsection}{\numberline {1.6.2}Marco te\IeC {\'o}rico}{7}
+\contentsline {subsubsection}{\numberline {1.6.2.1}Microcr\IeC {\'e}dito}{7}
+\contentsline {subsubsection}{\numberline {1.6.2.2}Experiencia de usuario}{8}
+\contentsline {subsubsection}{\numberline {1.6.2.3}Almacenamiento y persistencia de la informaci\IeC {\'o}n}{9}
+\contentsline {subsection}{\numberline {1.6.3}Marco Conceptual}{10}
+\contentsline {subsubsection}{\numberline {1.6.3.1}Sitios Web}{10}
+\contentsline {subsubsection}{\numberline {1.6.3.2}Dise\IeC {\~n}o Web responsive}{11}
+\contentsline {subsubsection}{\numberline {1.6.3.3}Bases de datos relaciones}{12}
+\contentsline {subsubsection}{\numberline {1.6.3.4}SQL}{13}
+\contentsline {subsubsection}{\numberline {1.6.3.5}RESTful}{13}
+\contentsline {subsubsection}{\numberline {1.6.3.6}Web API}{14}
+\contentsline {subsubsection}{\numberline {1.6.3.7}HTTP}{15}
+\contentsline {section}{\numberline {1.7}Aspectos metodol\IeC {\'o}gicos}{16}
+\contentsline {subsection}{\numberline {1.7.1}Tipo de estudio}{16}
+\contentsline {subsection}{\numberline {1.7.2}M\IeC {\'e}todo de investigaci\IeC {\'o}n}{16}
+\contentsline {subsection}{\numberline {1.7.3}Fuentes y t\IeC {\'e}cnicas para la recolecci\IeC {\'o}n de la informaci\IeC {\'o}n}{17}
+\contentsline {subsection}{\numberline {1.7.4}Tratamiento de la informaci\IeC {\'o}n}{17}
+\contentsline {part}{II\hspace {1em}DESARROLLO DE LA INVESTIGACI\IeC {\'O}N}{18}
+\contentsline {chapter}{\numberline {2}METODOLOG\IeC {\'I}A APLICADA}{19}
+\contentsline {section}{\numberline {2.1}Metodolog\IeC {\'\i }a \IeC {\'a}gil SCRUM}{19}
+\contentsline {section}{\numberline {2.2}Diagramas de casos de uso}{20}
+\contentsline {section}{\numberline {2.3}Dise\IeC {\~n}o interfaz de usuario inicial \IeC {\textendash } wireframe}{20}
+\contentsline {section}{\numberline {2.4}Dise\IeC {\~n}o base de datos}{21}
+\contentsline {chapter}{\numberline {3}ORGANIZACI\IeC {\'O}N}{23}
+\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{23}
+\contentsline {section}{\numberline {3.2}Tru\$tMe}{23}
+\contentsline {section}{\numberline {3.3}Misi\IeC {\'o}n}{23}
+\contentsline {section}{\numberline {3.4}Visi\IeC {\'o}n}{23}
+\contentsline {section}{\numberline {3.5}Objetivos operativos}{24}
+\contentsline {section}{\numberline {3.6}Principios fundadores}{24}
+\contentsline {section}{\numberline {3.7}Servicios}{24}
+\contentsline {section}{\numberline {3.8}Productos}{24}
+\contentsline {chapter}{\numberline {4}ARQUITECTURA EMPRESARIAL}{25}
+\contentsline {section}{\numberline {4.1}Arquitectura capa de negocio}{25}
+\contentsline {subsection}{\numberline {4.1.1}Punto de vista de organizaci\IeC {\'o}n}{25}
+\contentsline {subsection}{\numberline {4.1.2}Punto de vista de cooperaci\IeC {\'o}n de actor}{26}
+\contentsline {subsection}{\numberline {4.1.3}Punto de vista de funci\IeC {\'o}n de negocio}{27}
+\contentsline {subsection}{\numberline {4.1.4}Punto de vista de proceso de negocio}{29}
+\contentsline {subsection}{\numberline {4.1.5}Cooperaci\IeC {\'o}n de proceso de negocio}{29}
+\contentsline {subsection}{\numberline {4.1.6}Punto de vista de producto}{31}
+\contentsline {part}{III\hspace {1em}CIERRE DE LA INVESTIGACI\IeC {\'O}N}{34}
+\contentsline {chapter}{RESULTADOS Y DISCUSI\IeC {\'O}N}{35}
+\contentsline {chapter}{CONCLUSIONES}{36}
+\contentsline {section}{\numberline {4.2}Aportes Originales}{36}
+\contentsline {section}{\numberline {4.3}Trabajos o publicaciones derivadas}{36}
+\contentsline {chapter}{PROSPECTIVA DEL TRABAJO DE GRADO}{37}
+\contentsline {section}{\numberline {4.4}Trabajos de investigaci\IeC {\'o}n futuros}{37}
+\contentsline {part}{REFERENCIAS}{38}
+\contentsline {part}{ANEXOS}{40}
+\contentsline {section}{Anexo A. Recolecci\IeC {\'o}n de la informaci\IeC {\'o}n}{40}
+\contentsline {subsection}{Encuesta}{40}
+\contentsline {subsubsection}{Encuesta 1 - Viabilidad}{40}
+\contentsline {subsubsection}{Tabulaci\IeC {\'o}n encuesta 1}{41}
+\contentsline {subsubsection}{Encuesta 2 - Satisfacci\IeC {\'o}n del proyecto}{43}
+\contentsline {subsubsection}{Tabulaci\IeC {\'o}n encuesta 2}{44}

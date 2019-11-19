@@ -24,6 +24,8 @@ Warning--entry type for "methoqual" isn't style-file defined
 --line 49 of file bibliography/online.bib
 Warning--entry type for "yotepresto" isn't style-file defined
 --line 56 of file bibliography/online.bib
+Warning--entry type for "archimate" isn't style-file defined
+--line 63 of file bibliography/online.bib
 Warning--empty journal in bankrep
 Warning--empty journal in dane
 Warning--empty journal in unemployment
@@ -31,4 +33,4 @@ Warning--empty journal in MaricruzMicro
 Warning--empty journal in BarbaraMicro
 Warning--empty journal in LupeTrust
 Warning--empty journal in YusefUX
-(There were 15 warnings)
+(There were 16 warnings)
