@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.17)  19 NOV 2019 12:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.17)  5 DEC 2019 19:15
 entering extended mode
 **./TG.tex
 (TG.tex
@@ -648,135 +648,275 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--12
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-<development/negocio.pdf, id=173, 270.00874pt x 242.9075pt>
-File: development/negocio.pdf Graphic file (type pdf)
-<use development/negocio.pdf>
-Package pdftex.def Info: development/negocio.pdf  used on input line 18.
-(pdftex.def)             Requested size: 354.86412pt x 319.25266pt.
 [33
 
  <./development/organizacion.png>]
+<development/negocio.pdf, id=177, 270.00874pt x 242.9075pt>
+File: development/negocio.pdf Graphic file (type pdf)
+<use development/negocio.pdf>
+Package pdftex.def Info: development/negocio.pdf  used on input line 23.
+(pdftex.def)             Requested size: 266.14978pt x 239.44135pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
 <development/cooperacionactor.png, id=178, 383.93437pt x 197.23688pt>
 File: development/cooperacionactor.png Graphic file (type png)
 <use development/cooperacionactor.png>
-Package pdftex.def Info: development/cooperacionactor.png  used on input line 2
-9.
+Package pdftex.def Info: development/cooperacionactor.png  used on input line 3
+4.
 (pdftex.def)             Requested size: 354.86412pt x 182.31483pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--31
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
 
  []
 
 [34 <./development/negocio.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-
- []
-
 <development/cooperacionactor.pdf, id=191, 405.515pt x 276.03125pt>
 File: development/cooperacionactor.pdf Graphic file (type pdf)
 <use development/cooperacionactor.pdf>
-Package pdftex.def Info: development/cooperacionactor.pdf  used on input line 3
-7.
+Package pdftex.def Info: development/cooperacionactor.pdf  used on input line 5
+1.
 (pdftex.def)             Requested size: 354.86412pt x 241.56042pt.
-<development/funcion.png, id=192, 254.45062pt x 117.43875pt>
-File: development/funcion.png Graphic file (type png)
-<use development/funcion.png>
-Package pdftex.def Info: development/funcion.png  used on input line 48.
-(pdftex.def)             Requested size: 354.86412pt x 163.79129pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--50
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
 [35 <./development/cooperacionactor.png> <./development/cooperacionactor.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+<development/funcion.png, id=197, 254.45062pt x 117.43875pt>
+File: development/funcion.png Graphic file (type png)
+<use development/funcion.png>
+Package pdftex.def Info: development/funcion.png  used on input line 62.
+(pdftex.def)             Requested size: 354.86412pt x 163.79129pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--64
 
  []
 
 <development/funcion.pdf, id=198, 452.69125pt x 321.2pt>
 File: development/funcion.pdf Graphic file (type pdf)
 <use development/funcion.pdf>
-Package pdftex.def Info: development/funcion.pdf  used on input line 56.
+Package pdftex.def Info: development/funcion.pdf  used on input line 70.
 (pdftex.def)             Requested size: 354.86412pt x 251.78967pt.
-<development/proceso.png, id=199, 414.79968pt x 219.82124pt>
+[36 <./development/funcion.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+<development/proceso.png, id=203, 414.79968pt x 219.82124pt>
 File: development/proceso.png Graphic file (type png)
 <use development/proceso.png>
-Package pdftex.def Info: development/proceso.png  used on input line 67.
+Package pdftex.def Info: development/proceso.png  used on input line 81.
 (pdftex.def)             Requested size: 354.86412pt x 188.0665pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--69
+Underfull \hbox (badness 10000) in paragraph at lines 78--83
 
  []
 
-[36 <./development/funcion.png> <./development/funcion.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-
- []
-
-<development/proceso.pdf, id=205, 561.09625pt x 124.465pt>
+[37 <./development/funcion.pdf>]
+<development/proceso.pdf, id=208, 561.09625pt x 124.465pt>
 File: development/proceso.pdf Graphic file (type pdf)
 <use development/proceso.pdf>
-Package pdftex.def Info: development/proceso.pdf  used on input line 75.
+Package pdftex.def Info: development/proceso.pdf  used on input line 99.
 (pdftex.def)             Requested size: 354.86412pt x 78.71722pt.
-<development/cooperacionproceso.png, id=206, 423.83344pt x 225.84375pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+<development/cooperacionproceso.png, id=209, 423.83344pt x 225.84375pt>
 File: development/cooperacionproceso.png Graphic file (type png)
 <use development/cooperacionproceso.png>
 Package pdftex.def Info: development/cooperacionproceso.png  used on input line
- 86.
+ 110.
 (pdftex.def)             Requested size: 354.86412pt x 189.10092pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--88
+Underfull \hbox (badness 10000) in paragraph at lines 107--112
 
  []
 
-[37 <./development/proceso.png> <./development/proceso.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
-
- []
-
-<development/cooperacionproceso.pdf, id=212, 273.02pt x 263.98625pt>
+[38 <./development/proceso.png> <./development/proceso.pdf>]
+<development/cooperacionproceso.pdf, id=215, 273.02pt x 263.98625pt>
 File: development/cooperacionproceso.pdf Graphic file (type pdf)
 <use development/cooperacionproceso.pdf>
 Package pdftex.def Info: development/cooperacionproceso.pdf  used on input line
- 95.
-(pdftex.def)             Requested size: 354.86412pt x 343.14581pt.
-[38 <./development/cooperacionproceso.png>]
-<development/producto.png, id=217, 377.91188pt x 285.31593pt>
-File: development/producto.png Graphic file (type png)
-<use development/producto.png>
-Package pdftex.def Info: development/producto.png  used on input line 106.
-(pdftex.def)             Requested size: 354.86412pt x 267.91838pt.
+ 119.
+(pdftex.def)             Requested size: 266.14978pt x 257.35936pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--108
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-[39 <./development/cooperacionproceso.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+[39 <./development/cooperacionproceso.png> <./development/cooperacionproceso.pd
+f>]
+<development/producto.png, id=221, 377.91188pt x 285.31593pt>
+File: development/producto.png Graphic file (type png)
+<use development/producto.png>
+Package pdftex.def Info: development/producto.png  used on input line 130.
+(pdftex.def)             Requested size: 354.86412pt x 267.91838pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--132
 
  []
 
 <development/producto.pdf, id=222, 324.21124pt x 237.88875pt>
 File: development/producto.pdf Graphic file (type pdf)
 <use development/producto.pdf>
-Package pdftex.def Info: development/producto.pdf  used on input line 115.
+Package pdftex.def Info: development/producto.pdf  used on input line 139.
 (pdftex.def)             Requested size: 354.86412pt x 260.39706pt.
-) [40 <./development/producto.png>] [41 <./development/producto.pdf>] [42
+) (development/application.tex [40 <./development/producto.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
+ []
+
+<development/comportamientoapp.png, id=228, 450.18187pt x 234.8775pt>
+File: development/comportamientoapp.png Graphic file (type png)
+<use development/comportamientoapp.png>
+Package pdftex.def Info: development/comportamientoapp.png  used on input line 
+10.
+(pdftex.def)             Requested size: 354.86412pt x 185.15337pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--12
+
+ []
+
+[41 <./development/producto.pdf>]
+<development/comportamientoapp.pdf, id=233, 472.76625pt x 209.78375pt>
+File: development/comportamientoapp.pdf Graphic file (type pdf)
+<use development/comportamientoapp.pdf>
+Package pdftex.def Info: development/comportamientoapp.pdf  used on input line 
+24.
+(pdftex.def)             Requested size: 266.14978pt x 118.10228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+<development/cooperacionapp.png, id=234, 462.97969pt x 215.30438pt>
+File: development/cooperacionapp.png Graphic file (type png)
+<use development/cooperacionapp.png>
+Package pdftex.def Info: development/cooperacionapp.png  used on input line 35.
+
+(pdftex.def)             Requested size: 354.86412pt x 165.02927pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
+
+ []
+
+[42 <./development/comportamientoapp.png> <./development/comportamientoapp.pdf>
 ]
-(closing/results.tex) [43
+<development/cooperacionapp.pdf, id=247, 379.4175pt x 194.7275pt>
+File: development/cooperacionapp.pdf Graphic file (type pdf)
+<use development/cooperacionapp.pdf>
+Package pdftex.def Info: development/cooperacionapp.pdf  used on input line 43.
 
-] (closing/conclusions.tex) (closing/originals.tex)
-(closing/works.tex) [44
+(pdftex.def)             Requested size: 354.86412pt x 182.1287pt.
+<development/usoapp.png, id=248, 417.81094pt x 274.02374pt>
+File: development/usoapp.png Graphic file (type png)
+<use development/usoapp.png>
+Package pdftex.def Info: development/usoapp.png  used on input line 54.
+(pdftex.def)             Requested size: 354.86412pt x 232.75403pt.
 
-] (closing/future.tex [45
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 
-]) (TG.bbl
+ []
+
+[43 <./development/cooperacionapp.png> <./development/cooperacionapp.pdf>]
+<development/usoapp.pdf, id=261, 321.2pt x 179.67125pt>
+File: development/usoapp.pdf Graphic file (type pdf)
+<use development/usoapp.pdf>
+Package pdftex.def Info: development/usoapp.pdf  used on input line 61.
+(pdftex.def)             Requested size: 354.86412pt x 198.50804pt.
+)
+(development/technology.tex
+<development/infraestructura.png, id=262, 446.41782pt x 255.20343pt>
+File: development/infraestructura.png Graphic file (type png)
+<use development/infraestructura.png>
+Package pdftex.def Info: development/infraestructura.png  used on input line 9.
+
+(pdftex.def)             Requested size: 354.86412pt x 202.86629pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--11
+
+ []
+
+[44 <./development/usoapp.png> <./development/usoapp.pdf>]
+<development/infraestructura.pdf, id=268, 420.57124pt x 245.91875pt>
+File: development/infraestructura.pdf Graphic file (type pdf)
+<use development/infraestructura.pdf>
+Package pdftex.def Info: development/infraestructura.pdf  used on input line 17
+.
+(pdftex.def)             Requested size: 266.14978pt x 155.62381pt.
+<development/usoinfraestructura.png, id=269, 406.51875pt x 282.30469pt>
+File: development/usoinfraestructura.png Graphic file (type png)
+<use development/usoinfraestructura.png>
+Package pdftex.def Info: development/usoinfraestructura.png  used on input line
+ 28.
+(pdftex.def)             Requested size: 354.86412pt x 246.44307pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--30
+
+ []
+
+[45 <./development/infraestructura.png> <./development/infraestructura.pdf>]
+<development/usoinfraestructura.pdf, id=282, 280.04625pt x 182.6825pt>
+File: development/usoinfraestructura.pdf Graphic file (type pdf)
+<use development/usoinfraestructura.pdf>
+Package pdftex.def Info: development/usoinfraestructura.pdf  used on input line
+ 36.
+(pdftex.def)             Requested size: 354.86412pt x 231.49963pt.
+<development/estructurainfo.png, id=283, 286.82156pt x 189.70876pt>
+File: development/estructurainfo.png Graphic file (type png)
+<use development/estructurainfo.png>
+Package pdftex.def Info: development/estructurainfo.png  used on input line 46.
+
+(pdftex.def)             Requested size: 354.86412pt x 234.71826pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--48
+
+ []
+
+[46 <./development/usoinfraestructura.png> <./development/usoinfraestructura.pd
+f>]
+<development/estructurainfo.pdf, id=297, 306.14375pt x 93.34875pt>
+File: development/estructurainfo.pdf Graphic file (type pdf)
+<use development/estructurainfo.pdf>
+Package pdftex.def Info: development/estructurainfo.pdf  used on input line 54.
+
+(pdftex.def)             Requested size: 354.86412pt x 108.21054pt.
+<development/realizacionser.png, id=298, 445.665pt x 225.84375pt>
+File: development/realizacionser.png Graphic file (type png)
+<use development/realizacionser.png>
+Package pdftex.def Info: development/realizacionser.png  used on input line 64.
+
+(pdftex.def)             Requested size: 354.86412pt x 179.83093pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--66
+
+ []
+
+[47 <./development/estructurainfo.png> <./development/estructurainfo.pdf>]
+<development/realizacionser.pdf, id=304, 254.9525pt x 192.72pt>
+File: development/realizacionser.pdf Graphic file (type pdf)
+<use development/realizacionser.pdf>
+Package pdftex.def Info: development/realizacionser.pdf  used on input line 73.
+
+(pdftex.def)             Requested size: 354.86412pt x 268.25641pt.
+)
+[48 <./development/realizacionser.png> <./development/realizacionser.pdf>]
+[49
+
+] (closing/results.tex) [50
+
+] (closing/conclusions.tex)
+(closing/originals.tex) (closing/works.tex) [51
+
+] (closing/future.tex [52
+
+])
+(TG.bbl
 Underfull \hbox (badness 7540) in paragraph at lines 11--15
 []\OT1/cmr/m/n/12 Dane, ``Gran en-cues-ta in-te-gra-da de ho-ga-res (geih) mer-
 ca-do la-bo-ral,''
@@ -800,7 +940,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--21
 articulo-[]883869$ [Vis-to el
  []
 
-[46
+[53
 
 
 ]
@@ -809,80 +949,80 @@ Underfull \hbox (badness 1173) in paragraph at lines 78--82
 -[]servicios-[]web-[]restfu$ [Vis-to el
  []
 
-) [47] (annexes/annexA.tex
+) [54] (annexes/annexA.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-[48
+[55
 
 ]
-<annexes/e1-p1.png, id=254, 361.35pt x 217.5628pt>
+<annexes/e1-p1.png, id=374, 361.35pt x 217.5628pt>
 File: annexes/e1-p1.png Graphic file (type png)
 <use annexes/e1-p1.png>
 Package pdftex.def Info: annexes/e1-p1.png  used on input line 62.
 (pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
-<annexes/e1-p2.png, id=255, 361.35pt x 217.5628pt>
+<annexes/e1-p2.png, id=375, 361.35pt x 217.5628pt>
 File: annexes/e1-p2.png Graphic file (type png)
 <use annexes/e1-p2.png>
 Package pdftex.def Info: annexes/e1-p2.png  used on input line 68.
 (pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
- [49 <./annexes/e1-p1.png>]
-<annexes/e1-p3.png, id=259, 361.35pt x 217.5628pt>
+ [56 <./annexes/e1-p1.png>]
+<annexes/e1-p3.png, id=379, 361.35pt x 217.5628pt>
 File: annexes/e1-p3.png Graphic file (type png)
 <use annexes/e1-p3.png>
 Package pdftex.def Info: annexes/e1-p3.png  used on input line 74.
 (pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
-<annexes/e1-p4.png, id=260, 361.35pt x 217.5628pt>
+<annexes/e1-p4.png, id=380, 361.35pt x 217.5628pt>
 File: annexes/e1-p4.png Graphic file (type png)
 <use annexes/e1-p4.png>
 Package pdftex.def Info: annexes/e1-p4.png  used on input line 80.
 (pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
- [50 <./annexes/e1-p2.png> <./annexes/e1-p3.png>]
-<annexes/e1-p5.png, id=264, 361.35pt x 217.5628pt>
+ [57 <./annexes/e1-p2.png> <./annexes/e1-p3.png>]
+<annexes/e1-p5.png, id=384, 361.35pt x 217.5628pt>
 File: annexes/e1-p5.png Graphic file (type png)
 <use annexes/e1-p5.png>
 Package pdftex.def Info: annexes/e1-p5.png  used on input line 86.
 (pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
- [51 <./annexes/e1-p4.png> <./annexes/e1-p5.png>]
-<annexes/e2-p1.png, id=268, 361.35pt x 217.5628pt>
+ [58 <./annexes/e1-p4.png> <./annexes/e1-p5.png>]
+<annexes/e2-p1.png, id=389, 361.35pt x 217.5628pt>
 File: annexes/e2-p1.png Graphic file (type png)
 <use annexes/e2-p1.png>
 Package pdftex.def Info: annexes/e2-p1.png  used on input line 127.
 (pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
-<annexes/e2-p2.png, id=269, 361.35pt x 217.5628pt>
+<annexes/e2-p2.png, id=390, 361.35pt x 217.5628pt>
 File: annexes/e2-p2.png Graphic file (type png)
 <use annexes/e2-p2.png>
 Package pdftex.def Info: annexes/e2-p2.png  used on input line 133.
 (pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
- [52 <./annexes/e2-p1.png>]
-<annexes/e2-p3.png, id=274, 361.35pt x 217.5628pt>
+ [59 <./annexes/e2-p1.png>]
+<annexes/e2-p3.png, id=394, 361.35pt x 217.5628pt>
 File: annexes/e2-p3.png Graphic file (type png)
 <use annexes/e2-p3.png>
 Package pdftex.def Info: annexes/e2-p3.png  used on input line 139.
 (pdftex.def)             Requested size: 354.86412pt x 213.65825pt.
 )
-[53 <./annexes/e2-p2.png> <./annexes/e2-p3.png>] (TG.aux (start/coverPage.aux)
+[60 <./annexes/e2-p2.png> <./annexes/e2-p3.png>] (TG.aux (start/coverPage.aux)
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 
 (start/backCover.aux) (start/acceptanceNote.aux) (start/dedication.aux)
 (start/intro.aux)) ) 
 Here is how much of TeX's memory you used:
- 3762 strings out of 492895
- 60621 string characters out of 3133443
- 140403 words of memory out of 3000000
- 7464 multiletter control sequences out of 15000+200000
+ 3832 strings out of 492895
+ 63179 string characters out of 3133443
+ 141403 words of memory out of 3000000
+ 7521 multiletter control sequences out of 15000+200000
  8847 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,32p,1064b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,32p,1064b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on TG.pdf (62 pages, 2027751 bytes).
+Output written on TG.pdf (69 pages, 2477849 bytes).
 PDF statistics:
- 294 PDF objects out of 1000 (max. 8388607)
+ 414 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 246 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
 
